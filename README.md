@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center" style="font-size: 4rem; color: #AD88C6;">Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="45" />, I'm X</h1>
-<h4 style="font-size: 1.1rem; color: #E1AFD1; font-family: open sans; line-height: 1.5; text-align: center">A frontend developer excited to share my latest work with you. Explore this repository to discover the intersection of modern technologies and sleek design. Your contributions and feedback are greatly appreciated—let's collaborate and enhance this project together! 🚀<br>See my <a href="#" target="_blank" style="color: #888; font-family: consolas">resume</a> for more.</h4>
+<h4 style="font-size: 1.1rem; color: #E1AFD1; font-family: open sans; line-height: 1.5; text-align: center">A frontend developer excited to share my latest works with you. Explore this repository to discover the intersection of modern technologies and sleek design. Your contributions and feedback are greatly appreciated—let's collaborate and enhance this project together! 🚀<br>See my <a href="#" target="_blank" style="color: #888; font-family: consolas">resume</a> for more.</h4>
 </div>
 
 <div align="center">

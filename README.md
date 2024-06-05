@@ -25,7 +25,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=plastic&logo=react)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-tailwindcss-%05122A?style=plastic&logo=tailwind-css)\
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-05122a?style=plastic&logo=tailwind-css)\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;

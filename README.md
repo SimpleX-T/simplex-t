@@ -38,8 +38,8 @@
     <h2 align="center">you can reach me on:</h2>
     <p align="center">
       <br/>
-      <a href="https://web.facebook.com/Tobechukwu.4.God" target="_blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-EA4335?style=plastic&logo=facebook&logoColor=white&color=%233b5998
+      <a href="https://www.linkedin.com/in/mark-ndubuisi-306b06298/" target="_blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-EA4335?style=plastic&logo=inkedin&logoColor=white&color=%233b5998
          "
          alt="LinkedIn" height="30"/></a>
       <a href="mailto:ntmark2004@gmail.com" target="_blank"><img align="center"
@@ -48,9 +48,9 @@
          alt="Gmail" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://x.com/xcodes_tech" target="_blank"><img align="center"
-         src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fxcodes_tech&style=plastic&logo=X&logoColor=white&label=Follow&labelColor=%23111&color=%23eee"
-         alt="twitter" height="30"/></a><br></p>
+      <a href="https://x.com/devtochukwu" target="_blank"><img align="center"
+         src="https://img.shields.io/twitter/follow/devtochukwu?style=plastic&logo=X&label=devtochukwu"
+         alt="X" height="30"/></a><br></p>
         </samp>
 </div>
 </details>

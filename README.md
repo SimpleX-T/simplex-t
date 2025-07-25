@@ -63,7 +63,7 @@ I'm not where I want to be yet—but I'm putting in the reps, leveling up fast, 
 
 ---
 
-<details open> 
+<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
@@ -91,5 +91,14 @@ I'm not where I want to be yet—but I'm putting in the reps, leveling up fast, 
      </samp>
   </div>    
  </details>
+
+---
+
+<div align="center">
+<p style="font-size: 3rem; font-family: fira code">My Octocat</p>
+<img src="octocat_simplex-t.png" height="200" alt="My Octocat">
+<p align="center" style="font-size: 1.5rem; font-family: fira code"><a href="https://myoctocat.com/gallery/" style="color: #ffc; text-decoration: none;">Make yours</a>
+</p>
+</div>
 
 ---

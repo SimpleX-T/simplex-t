@@ -53,7 +53,7 @@ I'm not where I want to be yet—but I'm putting in the reps, leveling up fast, 
 ## 📡 Let's Connect
 
 * 🔗 [GitHub](https://github.com/SimpleX-T)
-* 💼 [LinkedIn](https://www.linkedin.com/in/mark-ndubuisi-306b06298/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/devtochukwu)
 * 🐦 [X (Twitter)](https://x.com/devtochukwu)
 * 📬 [Email](mailto:ntmark2004@gmail.com)
 

@@ -18,15 +18,10 @@
 
 ## 🚀 About Me
 
-I'm a computer science student and frontend developer stepping boldly into the backend world—one API at a time. I’m building a strong foundation in full-stack development, with hands-on experience crafting responsive UIs, writing clean server-side code, and exploring the deep ends of blockchain and cybersecurity.
+My name is Tochukwu, I am a first principle engineer, and founder.
+I am a software developer, I build software on the web. I am proficient in JavaScript, Typescript, Rust, and Java.
 
-Lately, I’ve been:
-
-* Designing and consuming RESTful APIs
-* Building and deploying small backend services
-* Learning the ropes of DevOps and infrastructure
-* Experimenting with Telegram bots and smart contracts
-* Studying how systems stay resilient under pressure
+When I am not squashing bugs, I love reading mind-building books, discussing philosophical topics, and being human.
 
 I’m passionate about writing code that’s clean, understandable, and maintainable. I love getting under the hood and making things work—the right way.
 

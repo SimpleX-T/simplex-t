@@ -89,6 +89,8 @@ I'm not where I want to be yet—but I'm putting in the reps, leveling up fast, 
 
 ---
 
+<div><a href="https://cloud.layer5.io/user/ce90cbff-397c-4b82-a9b1-2179ac9a56ed?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
+
 <div align="center">
 <p style="font-size: 3rem; font-family: fira code">My Octocat</p>
 <img src="octocat_simplex-t.png" height="200" alt="My Octocat">
